@@ -1,0 +1,1 @@
+This repository is created to accompany me with any DCCC related courses that require or benefit from an active git repo. Currently enrolled in cs 214 for Javascript and Jquery but considering also UX/UI and perhaps other courses related to the career I seem to be developing.
